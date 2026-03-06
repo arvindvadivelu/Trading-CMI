@@ -7,3 +7,5 @@
 # Soon it will release 
 
 # Mainly Focus on Crypto Trading
+
+# BTCUSD
