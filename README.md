@@ -8,4 +8,4 @@
 
 # Mainly Focus on Crypto Trading
 
-# BTCUSD
+
